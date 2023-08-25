@@ -1,0 +1,6 @@
+body{
+    background-color: #e1cec3 !important;
+    font-family: sans-serif;
+    color:#0e0e0e;
+    overflow: hidden; /* Hide scrollbars */
+}
